@@ -1,0 +1,17 @@
+{
+    "name": "assetmanagement/ci_die_dump",
+    "autoload": {
+        "psr-4": {
+            "Assetmanagement\\CiDieDump\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kashi93",
+            "email": "75873210+kashi93@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper":"5.4"
+    }
+}
